@@ -1,2 +1,3 @@
 Hello World!
 or is it?
+kill me
